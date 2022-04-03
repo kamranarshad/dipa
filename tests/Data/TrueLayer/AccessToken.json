@@ -1,0 +1,16 @@
+{
+    "access_token": "eyJhbGciOiJSUzI1NiIsImtpZCI6IjE0NTk4OUIwNTdDOUMzMzg0MDc4MDBBOEJBNkNCOUZFQjMzRTk1MTBSUzI1NiIsInR5cCI6ImF0K2p3dCIsIng1dCI6IkZGbUpzRmZKd3poQWVBQ291bXk1X3JNLWxSQSJ9.eyJuYmYiOjE2MTMwNjY5MzgsImV4cCI6MTYxMzA3MDUzOCwiaXNzIjoiaHR0cHM6Ly9hdXRoLnRydWVsYXllci1zYW5kYm94LmNvbSIsImF1ZCI6ImRhdGFfYXBpIiwiY2xpZW50X2lkIjoic2FuZGJveC15b28tMTZiNTgzIiwic3ViIjoiSmJKZ1RJOWozK0pNdWtuSnlnMDFla3RjMGpOYTZuRlZuSDZHUVU5TWRTbz0iLCJhdXRoX3RpbWUiOjE2MTMwNjY5MzgsImlkcCI6ImxvY2FsIiwianRpIjoiNkYxNUY3QkEzRDUzQkI4QUE5RTY2MzdFMTcxM0JFNjUiLCJzaWQiOiJhdXRoLXBXYUNnUzByTnJzdjJJbTJ6NjItQURYQ1AxcktBMVZCVHZCdmt0aGE3cW8iLCJpYXQiOjE2MTMwNjY5MzgsImNvbm5lY3Rvcl9pZCI6Im1vY2siLCJjcmVkZW50aWFsc19rZXkiOiIwNTgyNGI0YmEzYTYzM2ZmZDg5OGRiZWM4NGVlYjExMjVjM2RmYjgxYWJlMDNlMGEyZWY4NjRkMmFmZmYyNjU4IiwicHJpdmFjeV9wb2xpY3kiOiJGZWIyMDE5IiwiY29uc2VudF9pZCI6ImVmZmVhZjk1LTdjYmUtNGVkNC05MzIwLTJiOGFjOWZhYmUyOCIsInNjb3BlIjpbImluZm8iLCJhY2NvdW50cyIsImJhbGFuY2UiLCJjYXJkcyIsInRyYW5zYWN0aW9ucyIsImRpcmVjdF9kZWJpdHMiLCJzdGFuZGluZ19vcmRlcnMiLCJvZmZsaW5lX2FjY2VzcyJdLCJhbXIiOlsicHdkIl19.bU71YzlQLfEoQLMlX8enb-T28lkpM989mAxaAkmV3J3FgvZsv3Rj7n-TvsKN-_6cumbhpLavchezy4xo-n-Uq8o8l0dcxLELrgImX0vDOxRm8iae5hBkRstW5_0oNjxP9vIMi8f_SZlDgFv7pozWup2d0tNY-7Vx2C8uJVRYX7L6sT-aqVwhuM0vkzlsugY-dceTnikK3qMmX6adO3CHHD6Qqv7qm7VmEuXk5dgnDUQC7PnQugffBM517Ic7ilzOsWhgbjR0GjvrUfhh9xBqv2CuL_fBllcL2n7dsjMxXr6AvAz4hhuXZhhNxZSBOPiDImYdnRg8BKAWZuj0T1LMDg",
+    "expires_in": 3600,
+    "token_type": "Bearer",
+    "refresh_token": "DD65D922D17924F5A96E2C9DFA65AC8CD396107FD06A59F40B169E62B738BE5A",
+    "scope": [
+        "info",
+        "accounts",
+        "balance",
+        "cards",
+        "transactions",
+        "direct_debits",
+        "standing_orders",
+        "offline_access"
+    ]
+}
